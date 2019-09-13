@@ -1,4 +1,6 @@
 # comp3111-lab1-demo
-Seyon Park
-20465024\n
+name: Seyon Park
+
+id: 20465024
+
 ![Screen Capture](screencapture.PNG)
